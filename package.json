@@ -1,0 +1,30 @@
+{
+  "name": "gregorian",
+  "version": "1.0.0",
+  "description": "Open Source package that provides a matrix representation of a calendar for use with a custom frontend.",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19TT94/gregorian.git"
+  },
+  "keywords": [
+    "Calendar"
+  ],
+  "author": "Taylor Tobin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/19TT94/gregorian/issues"
+  },
+  "homepage": "https://github.com/19TT94/gregorian#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
