@@ -21,9 +21,10 @@
   },
   "homepage": "https://github.com/19TT94/gregorian#readme",
   "dependencies": {
-    "react": "^18.2.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "react": "^18.2.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   }
